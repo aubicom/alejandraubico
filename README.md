@@ -14,15 +14,10 @@ Welcome to my portfolio. Here you will find a curated selection of my projects, 
 
 ## 🚀 Featured Projects
 
-### 1. Marketing 
-* **Description:** [Industry] analysis using Kaggle datasets. Focused on data cleaning and exploratory data analysis (EDA).
-* **Tools:** BigQuery + Python.
-* **[Analysis Link]** | **[Dataset Link]**
+### 1. The Representation Gap: Women in Clinical Trials
+Which conditions and therapeutic areas have the largest female enrollment deficit — and does it correlate with approval timelines?
 
-### 2. Finance
-* **Description:** Interactive dashboard regarding [Topic]. Designed to highlight key business KPIs and trends.
-* **Tools:** Tableau.
-* **[View Dashboard on Tableau Public]**
+Inspired by the documented gap in medical research representation (per Invisible Women and supporting literature), this project asks: across ClinicalTrials.gov data, which disease areas systematically underenroll women, and does underrepresentation correlate with longer time-to-treatment or worse outcome data for female patients?
 
 ---
 
